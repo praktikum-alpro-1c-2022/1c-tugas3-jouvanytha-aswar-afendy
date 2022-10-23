@@ -11,7 +11,7 @@ int main (){
      cout << "nilai b = 25, x = 15, c = 20" << endl;
 
      Y = b*(x*x) + 0,5*(x) - c;
-     cout << "Hasil Penyelesaian dari Rumus = " << Y ;
+     cout << "Hasil Penyelesaian = " << Y ;
 
 return 0;
 }
